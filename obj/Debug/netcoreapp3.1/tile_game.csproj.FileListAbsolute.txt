@@ -1,0 +1,14 @@
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.csproj.AssemblyReference.cache
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.AssemblyInfoInputs.cache
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.AssemblyInfo.cs
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.csproj.CoreCompileInputs.cache
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.exe
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.deps.json
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.runtimeconfig.json
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.runtimeconfig.dev.json
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.dll
+D:\dev\tile_game\tile_game\bin\Debug\netcoreapp3.1\tile_game.pdb
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.dll
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.pdb
+D:\dev\tile_game\tile_game\obj\Debug\netcoreapp3.1\tile_game.genruntimeconfig.cache
